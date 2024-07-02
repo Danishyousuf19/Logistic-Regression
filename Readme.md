@@ -1,4 +1,5 @@
 # My Machine Learning Projects
+## Using Linear Regression
 
 This repository contains machine learning projects focused on various prediction tasks using simple regression and classification techniques. Each project includes the dataset, a Jupyter notebook with the analysis and model implementation.
 
