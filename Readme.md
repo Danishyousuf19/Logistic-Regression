@@ -7,8 +7,8 @@ This repository contains machine learning projects focused on various prediction
 1. **Titanic Survival Prediction**
    - **Description**: This project uses a dataset of Titanic passengers to predict whether a person can survive or not based on various factors.
 
-2. **Iris Flower Prediction**
-   - **Description**: This project uses the Iris flower dataset to predict the species of an Iris flower based on its features.
+2. **Click on Advertisement Prediction**
+   - **Description**: This project uses the Fake advertising  dataset to predict the whether a person clicks on advertisement or not based on its features.
 
 ## Getting Started
 
