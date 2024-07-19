@@ -10,6 +10,9 @@ This repository contains machine learning projects focused on various prediction
 
 2. **Click on Advertisement Prediction**
    - **Description**: This project uses the Fake advertising  dataset to predict the whether a person clicks on advertisement or not based on its features.
+     
+3. **Pima Indians Diabetes Dataset**
+   - **Description**: This project uses the Pima Indians Diabetes Dataset  dataset to predict the whether a person have diabetes or not based on its features.
 
 ## Getting Started
 
